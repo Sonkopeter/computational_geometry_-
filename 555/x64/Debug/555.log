@@ -1,0 +1,8 @@
+﻿  Box.cpp
+  Functions.cpp
+C:\Users\Sonko\Desktop\Мнимые плюсы\4 семестр\ДЗ\555\555\Functions.cpp(41,38): warning C4244: инициализация: преобразование "double" в "unsigned char", возможна потеря данных
+  Main.cpp
+  Sphere.cpp
+  Tetra.cpp
+  Создание кода...
+  555.vcxproj -> C:\Users\Sonko\Desktop\Мнимые плюсы\4 семестр\ДЗ\555\555\x64\Debug\555.exe

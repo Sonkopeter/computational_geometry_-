@@ -1,0 +1,9 @@
+cam 0.0 0.0 0.0
+normal 0.0 1.0 0.0 
+up 0.0 0.0 1.0
+screen 1.0
+limit 20
+alpha 60.0
+width 1920
+height 1080
+light 10 0 10
